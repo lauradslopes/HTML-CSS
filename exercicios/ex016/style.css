@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #2E5902 40%, #214001);
+}
+
+main {
+    background-color: #F8F9F4;
+    width: 600px; /* LARGURA - aqui vc coloca o tamanho que quer que o texto fique */
+    padding: 10px; /* ACOLCHOAMENTO - é para colocar um espacinho entre o texto e a largura que vc delimitou */
+    margin: auto;  /* MARGEM - é para informar onde o seu texto vai ficar (neste caso o AUTO é para deixar o texto sempre centralizado, não importa o tamanho da página) */
+    border-radius: 20px; /* BORDA - borda da caixa onde vai ficar o seu texto (width) */
+    box-shadow: 5px 5px 15px #1c36018f;
+}
+h1 {
+    color: #A62B1F;
+    text-align: center;
+    text-shadow: 1px 1px 2px #86231ace;
+
+}
+h2 {
+    color: #D96941;
+
+}
+
+p {
+    text-align: justify;
+}
