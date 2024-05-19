@@ -5,5 +5,5 @@
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 
-<h4><a href="../../desafios/desafio012/index.html">Exercícios</a></h4>
-<h4><a href="../../exercicios/"></a>Projetos</h4>
+<h4><a href="https://lauradslopes.github.io/HTML-CSS/desafios/desafio012/index.html#">Projeto Cordel</a></h4>
+<h4><a href="https://lauradslopes.github.io/projeto-android/index.html#"></a>Projeto Android</h4>
